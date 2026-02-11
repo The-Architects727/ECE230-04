@@ -1,2 +1,2 @@
-# ECE230-04
-SOP POS and K-Maps in Vivardo
+# ECE230-LabWork-2026
+Vivardo Files
